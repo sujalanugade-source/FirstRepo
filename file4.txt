@@ -1,2 +1,2 @@
 hi in this practical we  see the branching and merging
-file modified
+file modified.....
